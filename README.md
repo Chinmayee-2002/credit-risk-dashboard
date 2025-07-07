@@ -34,3 +34,6 @@ This project is a data-driven dashboard built using **Python (Google Colab)** an
 2. Open Power BI → Load `cleaned_customer_data.csv`
 3. Recreate visuals using the guide in this repo
 
+👉 [Click here to view the step-by-step Power BI guide](dashboard_guide.md)
+
+
