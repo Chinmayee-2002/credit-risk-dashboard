@@ -29,7 +29,7 @@ This project is a data-driven dashboard built using **Python (Google Colab)** an
 
 ![Dashboard Screenshot](dashboard.png)
 
-## 🚀 How to Use
+## 🚀 How to Use:
 1. Open `analysis.ipynb` in Jupyter or Google Colab to clean and score data
 2. Open Power BI → Load `cleaned_customer_data.csv`
 3. Recreate visuals using the guide in this repo
